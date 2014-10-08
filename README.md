@@ -21,3 +21,7 @@ Here is a pyhton command: `print()`
 def this(*string*):
     print yea
 ```
+
+* adding
+* new lines
+* ok
